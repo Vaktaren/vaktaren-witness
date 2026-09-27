@@ -1,0 +1,3 @@
+# Vaktaren audit-chain Ed25519 signing public key (raw 32-byte, hex).
+# Publishable. Verify anchored roots against this. Private key is host-only.
+d1eba9c2b1d75e56d4627770448dd8f9c0f90ffaf51e2cae68c9ce9b7b82b093

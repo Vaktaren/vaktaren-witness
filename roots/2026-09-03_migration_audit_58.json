@@ -1,0 +1,10 @@
+{
+  "created_at": "2026-09-03T03:21:51.102074Z",
+  "entry_count": 6571,
+  "id": 58,
+  "public_key_fingerprint_sha256": "60c67dd0cfd97701909d671f43754e53b3f1e41b10f812244773f2044533ed55",
+  "root_hex": "8f1525ce2878893f5144e061754795def3409f9e9bae21bdb176274b8a6aef34",
+  "schema": "vaktaren.witness.root.v1",
+  "signature_ed25519_hex": "3d6da1665761090cd4be0977b2f578a1aee11475472287d8f99c69cd49c8f4e5110a268dccc3c8b7ee2e35ebc3f73b093f56eba8e5f9c92396c1e6128974f501",
+  "source_table": "migration_audit"
+}
