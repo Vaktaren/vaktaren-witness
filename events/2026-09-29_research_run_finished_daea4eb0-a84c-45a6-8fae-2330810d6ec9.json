@@ -1,0 +1,8 @@
+{
+  "content_sha256": "4814c97cb6b7d1edfeb6e9cec2e703c30555eb29880644b43357dba5c1f573aa",
+  "decision_log_id": "daea4eb0-a84c-45a6-8fae-2330810d6ec9",
+  "decision_type": "research_run_finished",
+  "migration_audit_id": 9683,
+  "migration_audit_timestamp": "2026-09-29T08:37:13.720746Z",
+  "schema": "vaktaren.witness.event.v1"
+}
